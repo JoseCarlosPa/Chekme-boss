@@ -13,10 +13,15 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ### Pre-requisitos 📋
 
 _PHP > 7.4_
+
 _Composer > 2.0.0_
+
 _NodeJs > 14.15.0_
-_Vue.js _
+
+_Vue.js_
+
 _Laravel 8.0_
+
 _MYSQL_
 
 ```
